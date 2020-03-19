@@ -1,1 +1,1 @@
-# SLINGSHOT-2
+# Box Class
